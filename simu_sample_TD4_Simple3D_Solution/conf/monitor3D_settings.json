@@ -1,0 +1,12 @@
+
+{
+    "mappingClasse2Representation3D": [
+        {
+            "classeObjetAMapper": "enstabretagne.travaux_diriges.TD_corrige.Simple3D.SimEntity.Bouee.Bouee",
+            "Representation3DAMapper": "enstabretagne.travaux_diriges.TD_corrige.Simple3D.SimEntity.Bouee.Representation3D.Bouee3DRepresentation2",
+            "level4Trasparency": 5
+        }
+    ],
+    "frameparseconde": 25
+}
+
