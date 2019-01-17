@@ -12,3 +12,11 @@ How to :
 			double vitRot)
 - Mvt Circulaire (pour faire le tour de 360 deg) : CircularMover(LogicalDateTime d, Point3D posInit,Point3D vIni,Point3D cible)
 - Mvt Lineaire : RectilinearMover(LogicalDateTime d, Point3D posInit, Point3D target, double vIni)
+
+
+
+Questions à poser sur le cahier des charges:
+
+- Taille du bateau
+- Taille du drône
+- Scenario final pour valider toutes les exigences
